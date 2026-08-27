@@ -19,7 +19,7 @@ export const BASE_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你是不是又改计划了？' },
     { speaker: 'Elon Musk', text: '没有。' },
     { speaker: 'Gavin Newsom', text: '那为什么文件是新的？' },
-    { speaker: 'Elon Musk', text: '旧文件看起来不够有未来感。' }，
+    { speaker: 'Elon Musk', text: '旧文件看起来不够有未来感。' },
     { speaker: 'Gavin Newsom', text:'那不就是换计划了吗。。'}
   ],
   [
