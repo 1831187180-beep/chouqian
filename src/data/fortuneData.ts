@@ -289,7 +289,7 @@ export const EASTER_EGG_AGREE: FortuneResult = {
 
 export const EASTER_EGG_HEART: FortuneResult = {
   id: 'egg-heart',
-  rank: 'Newsom 🫶 Musk',
+  rank: 'Newsom 🩵 Musk',
   signName: '特别签·不言',
   poem: '……',
   action: '自明',
