@@ -7,7 +7,7 @@ import { DialogueLine } from '../types';
     { speaker: 'Gavin Newsom', text: '车座晒得烫屁股，你他妈能不能提前开空调？' },
     { speaker: 'Elon Musk', text: '开了，两分钟降下来，你屁话真多。' },
     { speaker: 'Gavin Newsom', text: '总算凉了，你这破车还行。' },
-    { speaker: 'Elon Musk', text: '比你那破车强，别酸了。' }
+    { speaker: 'Elon Musk', text: '比你那破车强，别酸了。' },
     { speaker: 'Gavin Newsom', text: '我开的不也是特斯拉吗？'}
   ],
   [
