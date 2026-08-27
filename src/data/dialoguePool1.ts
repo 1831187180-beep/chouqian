@@ -595,7 +595,7 @@ export const POOL1_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Elon Musk', text: '我审美一向在线，是你眼瞎。' }
   ],
   [
-    { speaker: 'Gavin Newsom', text:？' },
+    { speaker: 'Gavin Newsom', text: '你刚刚在笑什么？' },
     { speaker: 'Elon Musk', text: '想起一个代码段子，你不懂。' },
     { speaker: 'Gavin Newsom', text: '那你讲啊。' },
     { speaker: 'Elon Musk', text: '讲了你也听不懂，浪费我口水。' }
