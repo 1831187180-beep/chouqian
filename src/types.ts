@@ -9,7 +9,7 @@ export type FortuneRankType =
   | '？？？'
   | '特别签'
   | '无解'
-  | 'Newsom 🫶 Musk';
+  | 'Newsom 🩵💛 Musk';
 
 export interface DialogueLine {
   speaker: 'Gavin Newsom' | 'Elon Musk';
