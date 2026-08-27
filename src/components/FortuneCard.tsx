@@ -26,9 +26,9 @@ export const FortuneCard: React.FC<FortuneCardProps> = ({ fortune, onDrawAgain }
         <div
           id="corner-heart-watermark"
           className="absolute bottom-2.5 right-3 text-[10px] text-[#4a453c]/20 select-none cursor-default font-serif"
-          title="🫶"
+          title="🩵💛"
         >
-          🫶
+          🩵💛
         </div>
 
         {/* Top Sign Sub-title */}
