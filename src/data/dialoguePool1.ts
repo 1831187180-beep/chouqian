@@ -579,8 +579,8 @@ export const POOL1_DIALOGUES: DialogueLine[][] = [
   [
     { speaker: 'Gavin Newsom', text: '风都往我这边吹。' },
     { speaker: 'Elon Musk', text: '那你站我后面，我挡着。' },
-    { speaker ': 'Gavin Newsom', text你: '你挡刚才得住吗？' },
-    { speaker: 'Elon Musk笑了', text: '试试看，别被吹跑就行。' }
+    { speaker ': 'Gavin Newsom', text: '你挡刚才得住吗？' },
+    { speaker: 'Elon Musk', text: '试试看，别被吹跑就行。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '哟，新鞋？' },
