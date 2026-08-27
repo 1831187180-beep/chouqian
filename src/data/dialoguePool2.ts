@@ -169,7 +169,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你怎么坐墙角那去了？跟受气包似的。' },
     { speaker: 'Elon Musk', text: '这位置安全，防暗杀。' },
     { speaker: 'Gavin Newsom', text: '这是州政府，不是战场。' },
-    { speaker: 'Elon Musk', text: '你上次跟参议员吵架那嗓门，跟打仗也差不多。' }
+    { speaker: 'Elon Musk', text: '你上次跟参议员吵架，参议员那嗓门，跟打仗也差不多。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '这海滩人少，不错。' },
@@ -178,11 +178,11 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Elon Musk', text: '那我说“禽类排泄物较少”，舒服了？' }
   ],
   [
-    { speaker: 'Gavin Newsom', text: '今天改喝绿茶了？' },
-    { speaker: 'Elon Musk', text: '换换口味，提神。' },
-    { speaker: 'Gavin Newsom', text: '喝了放屁不臭吧？' },
-    { speaker: 'Elon Musk', text: '你管我放屁臭不臭。' },
-    { speaker: 'Gavin Newsom', text: '上次会议室你那个屁，我至今难忘。' }
+    { speaker: 'Gavin Newsom', text: '你能不能别磕了？' },
+    { speaker: 'Elon Musk', text: '就不。' },
+    { speaker: 'Gavin Newsom', text: '你特么自己磕药就磕药，药盒子别丢我车里。' },
+    { speaker: 'Elon Musk', text: '你管我？' },
+    { speaker: 'Gavin Newsom', text: '。。。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你那破本子上写的啥？' },
@@ -219,7 +219,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '海浪把贝壳冲上来了。' },
     { speaker: 'Elon Musk', text: '你捡一个带回去放桌上。' },
     { speaker: 'Gavin Newsom', text: '不捡了，留这挺好。' },
-    { speaker: 'Elon Musk', text: '你上次捡的那个放办公室，臭了一星期。' }
+    { speaker: 'Elon Musk', text: '你上次在星城边上捡的那个放办公室，臭了一星期。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你今天居然没打断别人，长大了一岁？' },
@@ -259,19 +259,19 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '把窗帘拉开点。' },
     { speaker: 'Elon Musk', text: '拉多少？' },
     { speaker: 'Gavin Newsom', text: '就那个角度，光线刚好照桌上。' },
-    { speaker: 'Elon Musk', text: '你指挥得跟拍电影似的。' }
+    { speaker: 'Elon Musk', text: '你转行导演了吗？' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '这鞋穿着挺合脚。' },
-    { speaker: 'Elon Musk', text: '新买的？终于舍得换鞋了？' },
-    { speaker: 'Gavin Newsom', text: '旧鞋穿烂了，脚都磨出泡了。' },
-    { speaker: 'Elon Musk', text: '怪不得你这两天走路一瘸一拐的。' }
+    { speaker: 'Elon Musk', text: '新买的？旧的呢？' },
+    { speaker: 'Gavin Newsom', text: '旧的放在......' },
+    { speaker: 'Elon Musk', text: '放在eBay拍卖了是吧。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你看那只鸟飞得真稳。' },
     { speaker: 'Elon Musk', text: '比你开车稳。' },
     { speaker: 'Gavin Newsom', text: '我开车怎么不稳了？' },
-    { speaker: 'Elon Musk', text: '上次坐你车，咖啡洒了一裤子，我内裤都湿了。' }
+    { speaker: 'Elon Musk', text: '上次坐你车，咖啡洒了一裤子，我裤裆都湿了。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '茶喝完了，再沏一壶。' },
@@ -313,15 +313,15 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '今晚月亮真圆。' },
     { speaker: 'Elon Musk', text: '十五嘛，当然圆。' },
     { speaker: 'Gavin Newsom', text: '照得地上跟白天似的。' },
-    { speaker: 'Elon Musk', text: '白天你放屁不响，晚上月亮照着你放。' }
+    { speaker: 'Elon Musk', text: '照的和白天一样的叫太阳。' }
   ],
 
   // 51-75 Tech Absurdity, Space, Robots & Future（恶趣味满满）
   [
     { speaker: 'Gavin Newsom', text: '你那机器狗跟着我走三圈了，烦不烦。' },
-    { speaker: 'Elon Musk', text: '它喜欢你的鞋，你脚气是不是很重？' },
-    { speaker: 'Gavin Newsom', text: '我没脚气！赶紧叫走。' },
-    { speaker: 'Elon Musk', text: '它说它舍不得，你脚味儿上头。' }
+    { speaker: 'Elon Musk', text: '它喜欢你的鞋，他爱你。' },
+    { speaker: 'Gavin Newsom', text: '你赶紧叫走，我不需要。' },
+    { speaker: 'Elon Musk', text: '你凶一只狗干嘛。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你厂房顶上铺了多少块太阳能板？' },
@@ -329,7 +329,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '能发多少电？' },
     { speaker: 'Elon Musk', text: '够你全办公室开空调开暖气开冰箱。' },
     { speaker: 'Gavin Newsom', text: '我办公室没冰箱。' },
-    { speaker: 'Elon Musk', text: '那给你配一个。' }
+    { speaker: 'Elon Musk', text: '那我给你配一个。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '火箭要是掉下来砸到人怎么办？' },
@@ -341,7 +341,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你车上顶个锅，收外星信号？' },
     { speaker: 'Elon Musk', text: '星链天线，沙漠里也能刷视频。' },
     { speaker: 'Gavin Newsom', text: '你在沙漠刷什么？' },
-    { speaker: 'Elon Musk', text: '刷你开会打哈欠的视频，百看不厌。' }
+    { speaker: 'Elon Musk', text: '刷你开会打发呆的视频，百看不厌。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '火星上要是有植物，你第一件事干嘛？' },
@@ -353,17 +353,17 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你办公室椅子换成赛车桶椅了？' },
     { speaker: 'Elon Musk', text: '支撑性好，坐着不腰疼。' },
     { speaker: 'Gavin Newsom', text: '你又不飙车。' },
-    { speaker: 'Elon Musk', text: '我脑内飙车，过弯漂移那种。' }
+    { speaker: 'Elon Musk', text: '我脑内飙车，车速超快的那种。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '今天风力发电量破纪录了。' },
     { speaker: 'Elon Musk', text: '风大呗，你赶紧把衣服收进来。' },
-    { speaker: 'Gavin Newsom', text: '我办公室没晾衣服。' },
-    { speaker: 'Elon Musk', text: '你上次内裤挂窗外吹走了，忘了？' }
+    { speaker: 'Gavin Newsom', text: '我没晾衣服。' },
+    { speaker: 'Elon Musk', text: '你先在晾上。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你口袋里那金属疙瘩是啥？' },
-    { speaker: 'Elon Musk', text: '火箭发动机零件，摸着手感好。' },
+    { speaker: 'Elon Musk', text: '火箭发动机零件钥匙扣，摸着手感好。' },
     { speaker: 'Gavin Newsom', text: '你一天到晚揣着这玩意儿不嫌硌？' },
     { speaker: 'Elon Musk', text: '硌得慌才记得带钥匙，省得老丢。' }
   ],
@@ -371,13 +371,13 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '超音速飞机从旧金山飞洛杉矶要多久？' },
     { speaker: 'Elon Musk', text: '八分钟，你刚起飞就得准备降落。' },
     { speaker: 'Gavin Newsom', text: '安全带都来不及解。' },
-    { speaker: 'Elon Musk', text: '那就不解，直接尿裤子。' }
+    { speaker: 'Elon Musk', text: '那就不解，再坐回去。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你手表震了五下，啥事儿？' },
     { speaker: 'Elon Musk', text: '火箭加注完了，今晚发射。' },
     { speaker: 'Gavin Newsom', text: '几点？' },
-    { speaker: 'Elon Musk', text: '凌晨一点，你别来，省得你打呼噜影响我指挥。' }
+    { speaker: 'Elon Musk', text: '凌晨一点，你别来，省得你影响我指挥。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '鼠标垫换成碳纤维板了？装逼。' },
@@ -395,7 +395,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '月球背面改造成望远镜，靠谱吗？' },
     { speaker: 'Elon Musk', text: '靠谱，屏蔽地球信号，看得清楚。' },
     { speaker: 'Gavin Newsom', text: '得花多少钱？' },
-    { speaker: 'Elon Musk', text: '反正不花你的钱，你瞎操什么心。' }
+    { speaker: 'Elon Musk', text: '反正不花加州高铁的项目款，你瞎操什么心。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你实验室里放辆自行车，当摆设？' },
@@ -437,7 +437,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '屏幕亮度调那么低，自虐？' },
     { speaker: 'Elon Musk', text: '省电，你管我。' },
     { speaker: 'Gavin Newsom', text: '你看得清个屁。' },
-    { speaker: 'Elon Musk', text: '我视力2.0，比你那双老花眼强。' }
+    { speaker: 'Elon Musk', text: '我视力5.0。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '火箭涂成金黄色，咋样？' },
@@ -461,7 +461,8 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你手上这螺丝啥材料？' },
     { speaker: 'Elon Musk', text: '钛合金，轻得很。' },
     { speaker: 'Gavin Newsom', text: '轻归轻，你揣着不嫌硌？' },
-    { speaker: 'Elon Musk', text: '男人嘛，身上总得有点硬货。' }
+    { speaker: 'Elon Musk', text: '男人嘛，身上总得有点硬货。' },
+    { speaker: 'Gavin Newsom', text: '你下面看起来确实不太硬货。'}
   ],
   [
     { speaker: 'Gavin Newsom', text: '太空电梯要是建成了，坐上去要多久？' },
@@ -477,13 +478,13 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '给你冲了杯燕麦奶，喝了。' },
     { speaker: 'Elon Musk', text: '温的？' },
     { speaker: 'Gavin Newsom', text: '烫不死你，快喝。' },
-    { speaker: 'Elon Musk', text: '谢了。' }
+    { speaker: 'Elon Musk', text: '不客气。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你刚才看老照片呢？' },
-    { speaker: 'Elon Musk', text: '十年前工厂刚开工的时候。' },
-    { speaker: 'Gavin Newsom', text: '那时候你头发还挺多。' },
-    { speaker: 'Elon Musk', text: '……那是角度问题，我发量一直稳定。' }
+    { speaker: 'Elon Musk', text: '二十年前工厂刚开工的时候。' },
+    { speaker: 'Gavin Newsom', text: '那时候你头发没现在多啊。' },
+    { speaker: 'Elon Musk', text: '……我植过发。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '今天没急着回邮件？' },
@@ -637,7 +638,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你午餐盒是个工具箱？' },
     { speaker: 'Elon Musk', text: '防摔防水，专业级。' },
     { speaker: 'Gavin Newsom', text: '谁会把三明治掉水里？' },
-    { speaker: 'Elon Musk', text: '你上次不就掉马桶里了吗。' }
+    { speaker: 'Elon Musk', text: '万一有人在厕所吃午餐呢。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你拿激光笔照月亮？' },
