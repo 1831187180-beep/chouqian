@@ -146,6 +146,7 @@ import { DialogueLine } from '../types';
   [
     { speaker: 'Gavin Newsom', text: '走吧，别磨蹭了。' },
     { speaker: 'Elon Musk', text: '你才磨蹭，走了。' }
+  ],
   [
     { speaker: 'Gavin Newsom', text: '……' },
     { speaker: 'Elon Musk', text: '……' }
