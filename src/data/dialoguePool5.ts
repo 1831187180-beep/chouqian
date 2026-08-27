@@ -150,4 +150,4 @@ import { DialogueLine } from '../types';
     { speaker: 'Gavin Newsom', text: '……' },
     { speaker: 'Elon Musk', text: '……' }
   ]
-];
+]
