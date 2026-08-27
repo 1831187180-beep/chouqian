@@ -117,7 +117,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '你这硬币磨得都快成纸片了。' },
     { speaker: 'Elon Musk', text: '抛了上万次，你服不服。' },
     { speaker: 'Gavin Newsom', text: '你数过？' },
-    { speaker: 'Elon Musk', text: '大概吧，反正比你头发多。' }
+    { speaker: 'Elon Musk', text: '大概吧，反正比你高铁米数多。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '加州这夜风吹得我起鸡皮疙瘩。' },
@@ -141,7 +141,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '这柠檬水酸得我牙都快掉了。' },
     { speaker: 'Elon Musk', text: '开胃，你最近不是胃口不好吗。' },
     { speaker: 'Gavin Newsom', text: '你咋知道我胃口不好？' },
-    { speaker: 'Elon Musk', text: '你放屁都少了，肯定是消化不良。' }
+    { speaker: 'Elon Musk', text: '猜的。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '走廊那门开着，风灌进来。' },
@@ -588,7 +588,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '今天这小风吹得真舒服。' },
     { speaker: 'Elon Musk', text: '舒服你就多吹会儿。' },
     { speaker: 'Gavin Newsom', text: '坐到天黑再走。' },
-    { speaker: 'Elon Musk', text: '好，你别放屁就行。' }
+    { speaker: 'Elon Musk', text: '好。' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '你袖扣掉了一个。' },
@@ -600,7 +600,7 @@ export const POOL2_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '桉树叶子闻着真提神。' },
     { speaker: 'Elon Musk', text: '你多闻闻，省得开会打瞌睡。' },
     { speaker: 'Gavin Newsom', text: '我开会从来不瞌睡。' },
-    { speaker: 'Elon Musk', text: '你上次打呼噜，拉里录了音你要不要听？' }
+    { speaker: 'Elon Musk', text: '别扯了，拉里录了你要不要看？' }
   ],
   [
     { speaker: 'Gavin Newsom', text: '今天居然没反驳我的方案。' },
