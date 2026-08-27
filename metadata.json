@@ -1,0 +1,6 @@
+{
+  "name": "今日抽签",
+  "description": "一个温柔淡雅的个人抽签与对话小网页",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
