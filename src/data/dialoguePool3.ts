@@ -690,7 +690,7 @@ export const POOL3_DIALOGUES: DialogueLine[][] = [
     { speaker: 'Gavin Newsom', text: '鼠标垫摸着挺舒服。' },
     { speaker: 'Elon Musk', text: '微纹理的，手感好。' },
     { speaker: 'Gavin Newsom', text: '滑起来没声。' },
-    { speaker: 'Elon Musk', text: '比你那张脸滑。' }
+    { speaker: 'Elon Musk', text: '比你那张脸滑。' },
     { speaker: 'Gavin Newsom', text: '怎么可能，我经常医美。'}
   ],
   [
